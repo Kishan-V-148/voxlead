@@ -1,0 +1,7 @@
+{
+  "name": "VoxLead AI - Marketing Call Automation",
+  "description": "An advanced AI-powered voice assistant for marketing call automation, featuring real-time lead qualification, intent detection, and automated escalation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
